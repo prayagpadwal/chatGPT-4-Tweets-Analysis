@@ -1,7 +1,7 @@
 # ChatGPT-4-Tweets-Analysis
 
-### steps we are going to follow:
-## ► Exploratory Data Analysis (EDA)
+## steps we are going to follow:
+### ► Exploratory Data Analysis (EDA)
 ## ► Text Cleaning
 ## ► The Top 30 Most Hashtags in the tweet text data
 ## ► Sentiment wise analysis of hashtags and words
